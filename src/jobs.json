@@ -83,48 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "title": "Boris Shields",
-      "type": "Internship",
-      "location": "Similique exercitati",
-      "description": "Sed optio impedit ",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Ford and Duncan Traders",
-        "description": "Id culpa soluta aliq",
-        "contactEmail": "modavefyt@mailinator.com",
-        "contactPhone": "+1 (175) 461-6842"
-      },
-      "id": 7
-    },
-    {
-      "title": "Lee Rivers",
-      "type": "Full-Time",
-      "location": "Fugiat et quam ulla",
-      "description": "Unde saepe non rerum",
-      "salary": "$60K - $70K",
-      "company": {
-        "name": "Conner and Lloyd Inc",
-        "description": "Eveniet sit minim ",
-        "contactEmail": "paha@mailinator.com",
-        "contactPhone": "+1 (802) 668-9223"
-      },
-      "id": 8
-    },
-    {
-      "title": "Kameko Schwartz",
-      "type": "Part-Time",
-      "location": "Ea laborum Sit fug",
-      "description": "Veritatis nobis aliq",
-      "salary": "Over $200K",
-      "company": {
-        "name": "Rodriguez and Holcomb Trading",
-        "description": "Aut cupidatat animi",
-        "contactEmail": "fejeqabuh@mailinator.com",
-        "contactPhone": "+1 (242) 926-6072"
-      },
-      "id": 9
     }
   ]
 }
