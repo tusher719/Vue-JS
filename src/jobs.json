@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "title": "Job Listing Name",
+      "type": "Full-Time",
+      "location": "Officia quo occaecat",
+      "description": "Sit dolores delectu",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Jefferson Richmond Trading",
+        "description": "Assumenda est bland",
+        "contactEmail": "officia@mailinator.com",
+        "contactPhone": "+1 (681) 594-3489"
+      },
+      "id": 7
     }
   ]
 }
